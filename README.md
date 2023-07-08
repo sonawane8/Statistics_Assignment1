@@ -1,4 +1,4 @@
-![image](https://github.com/sonawane8/Statistics_Assignment1/assets/125730698/a4128c3a-1c32-48ba-9fcb-bac92ccd6a81)# Statistics_Assignment1
+
 # Assignment Basic Statistics
 Q1) Identify the Data type for the Following:
 
